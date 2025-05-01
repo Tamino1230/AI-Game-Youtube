@@ -19,8 +19,9 @@ This project demonstrates how AI can assist in creating a complete software proj
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Follow the instructions in the video to set up and run the project.
-3. Explore the code and learn how AI can assist in software development.
+2. Extract the Files
+3. Start the .exe File
+4. "Windows Defender" - Press on "more information" -> "run anyways/continue"
 
 ## Join the Community
 
